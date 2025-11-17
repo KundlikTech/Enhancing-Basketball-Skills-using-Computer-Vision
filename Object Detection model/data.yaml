@@ -1,0 +1,7 @@
+path: C:/Users/Abhishek/Desktop/Object Detection model/BasketballHoop
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['basketball_hoop']
